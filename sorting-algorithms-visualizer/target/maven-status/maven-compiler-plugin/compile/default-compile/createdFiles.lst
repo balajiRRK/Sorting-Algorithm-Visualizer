@@ -1,0 +1,5 @@
+board\Board.class
+main\Main.class
+board\Algorithms.class
+main\DrawingSurface.class
+board\Line.class
