@@ -16,3 +16,10 @@ Command to run: `java -cp target\sorting-algorithms-visualizer-1.0-SNAPSHOT.jar;
 - Press spacebar to sort
 - Use the left and right arrow keys to cycle between different algorithms
 - Use the up and down arrow keys to increase or decrease the fps by 5 frames from a range of 5-60
+
+## Example
+
+https://github.com/user-attachments/assets/1c5bf455-2498-41cb-882d-a63737354752
+
+
+
